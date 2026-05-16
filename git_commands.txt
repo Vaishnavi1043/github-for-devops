@@ -23,3 +23,6 @@
   23 rm testing.py                                                                                                               
   24 git status                                                                                                                  
   25 git restore testing.py
+
+
+  new lines added
